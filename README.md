@@ -1,0 +1,1 @@
+### Maui AI application with local models and MLOps
